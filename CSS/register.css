@@ -1,0 +1,124 @@
+
+<style type="text/css">
+	#registerheader{
+		width: 1200px;
+		height: 282px;
+		border: 2px solid red;
+		margin: 20px auto;
+	}
+	#registerheader ul li{
+		font-size: 16px;
+		margin-top: 25px;
+		margin-left: 40px;
+
+		font-family: arial;
+	}
+	#r1{
+		width: 700px;
+		height: 250px;
+		float: left;
+		margin:auto;
+	}
+	#r2{
+		float: right;
+	}
+	#container2{
+		width: 1190px;
+		height: 1136px;
+		border: 2px solid black;
+		margin: auto;
+	}
+	#r3{
+		width: 700px;
+		margin:auto;
+		height: 558px;
+		position: relative;
+		padding: 8px;
+	}
+	#r4{
+		width: 700px;
+		margin:auto;
+		height: 180px;
+		position: relative;
+		padding: 8px;
+	}
+	#registerform_th{
+		width: 300px;
+		height: 43px;
+		font-size: 18px;
+		margin-left: 0px;
+		line-height: 43px;
+		margin-bottom: 8px;
+	}
+	#registerform_th p{
+		text-align: center;
+		float: left;
+	}
+	#registerform_input{
+		width: 343px;
+		height: 43px;
+		margin-bottom: 8px;
+	}
+	#registerform_input1{
+		width: 343px;
+		height: 50px;
+		margin-bottom: 8px;
+	}
+	#temp{
+		margin-left: 0px;
+		width: 325px;
+		height: 37px;
+		font-family: arial;
+		background-color: #FEFAFA;
+		font-size: 15px;
+		border-radius: 6px 6px 6px 6px;
+	}
+	#district1{
+	border: 1px solid red;
+	border-radius: 2px;
+	width: 328px;
+	height: 41px;
+	margin-left: -3px;
+	font-size: 14px;
+	font-weight: bold;
+	margin-bottom: 45px;
+	margin-top: -1px;
+	cursor: pointer;
+	color: black;
+	padding: 0px;
+	}
+	#temp1{
+		margin-left: 0px;
+		width: 329px;
+		height: 39px;
+		font-family: arial;
+		background-color: #D8CFCF;
+		font-size: 17px;
+		border-radius: 6px 6px 6px 6px;
+	}
+	#citydd{
+		margin-left: 0px;
+		width: 329px;
+		height: 39px;
+		font-family: arial;
+		background-color: #D8CFCF;
+		font-size: 17px;
+		border-radius: 6px 6px 6px 6px;
+	}
+	#registersubmit{
+		width: 134px;
+		height: 50px;
+		margin-left:303px;
+		border-radius: 8px 8px 8px 8px;
+		font-size: 18px;
+		font-weight: bold;
+		background-color: #DF4242;
+		color: black;
+		margin-top: 48px;
+	}
+	#registersubmit:hover{
+		background-color:white;
+		color: black;
+		cursor: pointer;
+	}
+</style>

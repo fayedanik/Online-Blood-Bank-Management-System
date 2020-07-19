@@ -1,0 +1,55 @@
+
+
+<style>
+	input[type="radio"]{
+		margin-left:58px;
+		border: 1px solid black;
+		color: white;
+		-webkit-appearance: none;
+		padding: 1.5em;
+	}
+	input[type="radio"]:checked {
+  		background: url(data:image/gif;base64,R0lGODlhAQABAPAAAP///////yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==) no-repeat center center;
+  		background-size: 9px 9px;
+	}
+	#login-form1{
+	margin: auto;
+	width: 258px;
+	height: 300px;
+	margin-top: 10px;
+	font-weight: bold;
+	}
+	#login-form{
+	background-color: #DF4242;
+	color:white;
+	width: 600px;
+	height: 300px;
+	position: absolute;
+	}
+	#forgot{
+		list-style: none;
+		font-size: 14px;
+		float:right;
+		text-decoration: none;
+		padding: 3px; 
+		color: #F9F2F1;
+	}
+	#forgot:hover{
+		color: black;
+	}
+	#signin{
+		width: 100px;
+		height: 35px;
+		margin-left:33%;
+		border-radius: 8px 8px 8px 8px;
+		font-size: 13px;
+		background-color: white;
+		color: black;
+		margin-top: 19px;
+	}
+	#signin:hover{
+		background-color: #DF4242;
+		color: white;
+		cursor: pointer;
+	}
+</style>
